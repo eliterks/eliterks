@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and CP**
 
-- 📫 How to reach me **ketchumash328@gmail.com**
+- 📫 Email Me At: **ketchumash328@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
