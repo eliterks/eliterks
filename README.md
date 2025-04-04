@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science and CP**
+- 🌱 I’m currently discovering **CLoud Native, Product Development and Myself too**
 
 - 📫 Email Me At: **ketchumash328@gmail.com**
 
