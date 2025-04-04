@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently discovering **CLoud Native, Product Development and Myself too**
+- 🌱 I’m currently discovering **CLoud Native, Product Development and Myself too.**
 
 - 📫 Email Me At: **ketchumash328@gmail.com**
 
