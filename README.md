@@ -98,7 +98,7 @@
 
 - 🥇 Dell Aspire Hackathon Winner
 - 🚀 SIH Internal Round
-- 🎯 400+ DSA Problems (Codolio:
+- 🎯 400+ DSA Problems 
 - McKinsey Forward Learner 2026
 
 ---
