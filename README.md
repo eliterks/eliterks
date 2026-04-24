@@ -29,12 +29,13 @@
 ---
 
 ## 📌 Current Focus
-- Open to Intern Roles for Software Development, AI Architect, and Full Stack Engineer.
-  (Are you hiring? Let's connect & collaborate to build something great!)
-- Competitive Programming and Data Structures & Algorithms.
+- 🚀 Open to **Software Development / AI / Full Stack Intern Roles**  
+  👉 **Hiring? Let’s connect and build high-impact systems together.**
+
+- Competitive Programming and Data Structures & Algorithms  
 - AI & Full Stack Product Development  
-- Finding ways to Accelerate Enterprises with my AI skills.
-- Also engaged in AI and Machine Learning Research alongside.
+- Finding ways to accelerate enterprises with AI  
+- Engaged in AI and Machine Learning research  
 
 ---
 
