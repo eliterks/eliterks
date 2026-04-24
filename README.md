@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Profile Snapshot
+## Profile Snapshot
 
 - Built **AI-driven systems reducing manual work by 90%**
 - Developed **end-to-end products (ML + Full Stack)**
@@ -29,7 +29,7 @@
 ---
 
 ## 📌 Current Focus
-- 🚀 Open to **Software Development / AI / Full Stack Intern Roles**  
+- Open to **Software Development / AI / Full Stack Intern Roles**  
   👉 **Hiring? Let’s connect and build high-impact systems together.**
 
 - Competitive Programming and Data Structures & Algorithms  
