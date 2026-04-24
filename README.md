@@ -1,25 +1,139 @@
-<h1 align="center">Hi 👋, I'm RAVI KUMAR SRIVASTAVA</h1>
-<h3 align="center">Computer Science Engineering student @ Delhi Technological University(DTU)</h3>
+<h1 align="center">Ravi Kumar Srivastava</h1>
+<h3 align="center">Full-Stack Engineer • AI Systems Builder • B.Tech CSE @ DTU</h3>
 
-
-
-- 🌱 I’m currently discovering **CLoud Native, Product Development and Myself too.**
-
-- 📫 Email Me At: **ketchumash328@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ravi-kumar-srivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/exceptionalravi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/1_rks_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_rks_1" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:ravi.srivastava.work@gmail.com"><b>Email</b></a> •
+  <a href="https://www.linkedin.com/in/ravi-kumar-srivastava/"><b>LinkedIn</b></a> •
+  <a href="https://github.com/eliterks"><b>GitHub</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-</a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliterks&show_icons=true&locale=en&layout=compact" alt="eliterks" /></p>
+## 🚀 Profile Snapshot
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliterks&show_icons=true&locale=en" alt="eliterks" /></p>
+- Built **AI-driven systems reducing manual work by 90%**
+- Developed **end-to-end products (ML + Full Stack)**
+- Design **scalable full-stack architectures and modular systems using LLD (OOP, design patterns), OS, and DBMS principles**
+- Architect **clean, maintainable codebases using SOLID principles and component-driven design**
+- Solved **400+ DSA problems**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliterks&" alt="eliterks" /></p>
+---
+
+## ⚡ What I Actually Do
+
+- Build **AI-powered automation systems**
+- Design **scalable full-stack architectures**
+- Optimize **performance, UX, and reliability**
+- Ship **production-ready systems, not demos**
+
+---
+
+## 📌 Current Focus
+- Open to Intern Roles for Software Development, AI Architect, and Full Stack Engineer.
+  (Are you hiring? Let's connect & collaborate to build something great!)
+- Competitive Programming and Data Structures & Algorithms.
+- AI & Full Stack Product Development  
+- Finding ways to Accelerate Enterprises with my AI skills.
+- Also engaged in AI and Machine Learning Research alongside.
+
+---
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 SafePath — AI Road Intelligence
+- YOLOv8 pothole detection (**92%+ accuracy**)
+- FastAPI backend + React frontend
+- Real-time citizen alert system
+
+---
+
+### 🔹 Visual Grounding + OCR System
+- OWL-ViT + TrOCR + PaddleOCR ensemble
+- Benchmarked **4+ SOTA models**
+- Solved **critical dependency bottlenecks**
+
+---
+
+### 🔹 WhatsApp Chat Analyzer
+- Processed **26K+ messages**
+- Built network graphs using **NetworkX**
+- Integrated ML models (KNN, Decision Tree)
+
+---
+
+### 🔹 Compliance Hub (500+ users)
+- Reduced errors by **40%**
+- Built reusable component system (**3× dev speed**)
+- Type-safe architecture (React + Zod)
+
+---
+
+## 🏢 Experience
+
+### AI Engineering Intern — Mixio Pro
+- Built autonomous brochure-generation agent
+- Designed n8n workflow → **90% time reduction**
+- Developed 3D UI (React + Three.js)
+
+---
+
+### ML Research Intern — DTU
+- Designed **ConvLSTM + 3D segmentation**
+- Achieved **0.8588 Mean IoU**
+- Optimized training pipelines
+- <a href="https://www.kaggle.com/rksrank1"><b>Kaggle Profile</b></a> 
+
+---
+
+### Web Developer — Woohl
+- Built modular auth recovery system (Next.js)
+- Fixed **critical onboarding failures**
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Dell Aspire Hackathon Winner
+- 🚀 SIH Internal Round
+- 🎯 400+ DSA Problems (Codolio:
+- McKinsey Forward Learner 2026
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliterks&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliterks&layout=compact" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliterks" height="150"/>
+</div>
+
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravi-kumar-srivastava/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+  </a>
+  
+  <a href="mailto:ravi.srivastava.work@gmail.com" style="margin-left: 15px;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="35"/>
+  </a>
+</p>
