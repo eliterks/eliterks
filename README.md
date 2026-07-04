@@ -11,7 +11,7 @@
 
 ## Profile Snapshot
 
-- Built **AI-driven systems reducing manual work by 90%**
+- Built **AI-driven systems reducing manual work by 70-80%**
 - Developed **end-to-end products (ML + Full Stack)**
 - Design **scalable full-stack architectures and modular systems using LLD (OOP, design patterns), Operating Systems(OS), Computer Networks(CN), and Database Management Systems (DBMS) principles**
 - Architect **clean, maintainable codebases using SOLID principles and component-driven design**
