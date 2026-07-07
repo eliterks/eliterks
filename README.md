@@ -120,12 +120,44 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliterks&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliterks&layout=compact" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliterks" height="150"/>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=eliterks&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=eliterks&show_icons=true&theme=default&hide_border=true&cache_seconds=86400"
+      height="165"
+      alt="GitHub stats"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliterks&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliterks&layout=compact&theme=default&hide_border=true&cache_seconds=86400"
+      height="165"
+      alt="Top languages"
+    />
+  </picture>
 </div>
 
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=eliterks&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub streak"
+  />
+</div>
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eliterks&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ## 🤝 Let's Connect
 
